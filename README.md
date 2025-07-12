@@ -13,8 +13,9 @@ This repository presents a comparative study of 3D rotation methods: classical m
 - **Rotation matrices**: 3x3 orthogonal matrices representing 3D rotations
 - **Quaternions (ℍ)**: Hypercomplex numbers providing a robust alternative for 3D rotations
 
-![Quaternion Multiplication Graph](Picture/Q8_multiplication_graph.svg)
-*Visualization of quaternion multiplication structure*
+📊 **Quaternion Multiplication Visualization**: [View the complete graph](Picture/Q8_multiplication_graph.svg)
+
+*The graph shows the multiplication structure of quaternions, demonstrating the non-commutative nature of quaternion multiplication.*
 
 ## Objectives
 - Demonstrate the mathematical and computational advantages of quaternions for 3D rotations
